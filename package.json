@@ -1,0 +1,9 @@
+{
+  "name": "blya",
+  "version": "0.0.1",
+  "description": "Utility helper for developers",
+  "main": "index.js",
+  "repository": "git@github.com:komlev/blya.git",
+  "author": "Valeriy Komlev <komlev88@gmail.com>",
+  "license": "MIT"
+}
