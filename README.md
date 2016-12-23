@@ -4,4 +4,4 @@ Utility helper for developers.
 
 
 Better use with [suka]
-[suka] https://github.com/komlev/suka
+[suka]: https://github.com/komlev/suka
